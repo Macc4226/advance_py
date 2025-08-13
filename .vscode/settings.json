@@ -14,5 +14,6 @@
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit"
   },
-  "notebook.formatOnSave.enabled": true
+  "notebook.formatOnSave.enabled": true,
+  "python.analysis.autoImportCompletions": false
 }
